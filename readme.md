@@ -6,7 +6,7 @@ This project implements a Simulated Annealing solver for K-SAT constraint satisf
 
 ### Core Files
 - **KSAT.py** - Main class that defines the K-SAT problem with methods for cost calculation, move proposals, and delta cost computation
-- **SimAnn.py** - Simulated Annealing implementation with Metropolis acceptance rule and temperature scheduling
+- **Simulated_Ann.py** - Simulated Annealing implementation with Metropolis acceptance rule and temperature scheduling
 - **3SAT_properties.py** - Scripts for empirical analysis of 3-SAT properties and algorithmic thresholds
 
 ### What the code does
